@@ -1,0 +1,7 @@
+{
+  "name": "flowers-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
